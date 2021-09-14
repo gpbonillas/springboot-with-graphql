@@ -1,3 +1,5 @@
+## Basado en el artículo: [Desarrollando una app Spring Boot con GraphQL](https://medium.com/@ktufernando/desarrollando-una-app-spring-boot-con-graphql-fe4610f41f2b) y clonado desde el siguiente [repositorio](https://github.com/ktufernando/springboot-with-graphql)
+
 # Desarrollando una app Spring Boot con GraphQL
 
 ![Desarrollando una app Spring Boot con GraphQL](https://ktufernando.github.io/static/c55003e547393b53aee53fdfc17d67dd/071a8/1.webp)
